@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "swg:tall_dark_oak_checked"
+      }
+    ],
+    "default": "swg:spruce_bush_checked"
+  }
+}

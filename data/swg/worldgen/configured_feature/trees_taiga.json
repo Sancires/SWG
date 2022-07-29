@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.3,
+        "feature": "minecraft:oak_checked"
+      },
+      {
+        "chance": 0.2,
+        "feature": "minecraft:fancy_oak_checked"
+      },
+      {
+        "chance": 0.4,
+        "feature": "minecraft:birch_checked"
+      },
+      {
+        "chance": 0.1,
+        "feature": "minecraft:mega_spruce_checked"
+      },
+      {
+        "chance": 0.25,
+        "feature": "swg:spruce_bush_checked"
+      }
+    ],
+    "default": "minecraft:spruce_checked"
+  }
+}
