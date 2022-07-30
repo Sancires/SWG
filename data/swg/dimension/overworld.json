@@ -1,0 +1,108 @@
+{
+  "type": "swg:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "swg:overworld",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "swg:ocean",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": -2,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:oak_forest",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0.15,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 1,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:sparse_woodland",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0.12,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 1,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:taiga",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 1.8,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:fir_forest",
+          "parameters": {
+            "temperature": 1,
+            "humidity": 0,
+            "continentalness": 1.9,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:canopy_grove",
+          "parameters": {
+            "temperature": 0.25,
+            "humidity": 0,
+            "continentalness": 1.88,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:warm_steppe",
+          "parameters": {
+            "temperature": -2,
+            "humidity": -1,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swg:rainforest",
+          "parameters": {
+            "temperature": -2,
+            "humidity": -1,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": -1,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}
