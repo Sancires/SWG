@@ -1,9 +1,7 @@
 # Sancires' World Generator
+![SWG](https://user-images.githubusercontent.com/82296481/181863844-00c8b232-f614-4acd-8c61-eff46c6090bc.jpg)
 ## About
 SWG is a world generation datapack replacing existing vanilla generation. The goal of SWG is to replicate a vanilla feel whilst still modifying and creating biomes that have a unique feel, while additionally incorporating elements not found in normal Minecraft worlds, such as the addition of skeleton horses and giants. For a full list of biomes, view the biome list [here](https://github.com/Sancires/SWG/wiki/Biomes).
-
-## Contributing
-Currently, SWG is seeking developers interested in handling multi-noise biome placement. If you are interested, please contact `Sancires#3417` on Discord. 
 
 ## Installation
 - Download SWG by clicking [here]().
