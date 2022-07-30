@@ -9,8 +9,8 @@ SWG is a world generation datapack replacing existing vanilla generation. The go
 ---
 > **SWG Vanilla**
 - Download SWG by clicking [here]().
-> **SWG + (Requires [Purpur](https://purpurmc.org/))**
-- Download SWG + by clicking [here]().
+> **SWG+ (Requires [Purpur](https://purpurmc.org/))**
+- Download SWG+ by clicking [here]().
 
 **Singleplayer:**
 - Before creating a vanilla world, click "Datapacks" and drag the SWG.zip file into the datapacks folder.
