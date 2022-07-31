@@ -4,7 +4,13 @@
 SWG is a world generation datapack replacing existing vanilla generation. The goal of SWG is to replicate a vanilla feel whilst still modifying and creating biomes that have a unique feel, while additionally incorporating elements not found in normal Minecraft worlds, such as the addition of skeleton horses and giants. For a full list of biomes, view the biome list [here](https://github.com/Sancires/SWG/wiki/Biomes).
 
 ## Installation
+
+> ⚠️ Currently, there are no downloadable releases. This will change once SWG is deemed stable.
+---
+> **SWG Vanilla**
 - Download SWG by clicking [here]().
+> **SWG+ (Requires [Purpur](https://purpurmc.org/))**
+- Download SWG+ by clicking [here]().
 
 **Singleplayer:**
 - Before creating a vanilla world, click "Datapacks" and drag the SWG.zip file into the datapacks folder.
